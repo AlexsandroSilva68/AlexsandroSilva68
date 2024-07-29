@@ -14,7 +14,7 @@ Seja bem-vindo ao meu perfil no GitHub! Sou um estudante de sistemas de informa�
   <img alin="center" alt="HTML5" src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white />
 </div><br>
 
-### 📈 Estatísticas do meu GitHub
+### 📈 Estatísticas 
 
 
 ![Alexsandro GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexsandroSilva68&show_icons=true&theme=dark)
