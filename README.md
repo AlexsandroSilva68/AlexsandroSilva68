@@ -3,7 +3,7 @@
 Seja bem-vindo ao meu perfil no GitHub! Sou um estudante de sistemas de informação e atualmente estou à procura de estágio. Tenho interesse em aplicar meus conhecimentos em projetos reais.
 
 
-### 🖥️ Habilidades Técnicas
+### 🖥️ Hard Skills
 
 <div style="display: inline_block"><br/>
   <img alin="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
