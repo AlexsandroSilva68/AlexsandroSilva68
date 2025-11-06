@@ -32,8 +32,6 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
 
 ### 📊 Minhas Estatísticas
 
-### 📊 Minhas Estatísticas
-
 <div align="center">
 
 <!-- Estatísticas principais e linguagens lado a lado -->
