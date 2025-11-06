@@ -8,7 +8,7 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
 
 ## 🧠 Foco Atual — Ferramentas para a Área de Dados
 
-<div align="center" style="display: inline_block"><br/>
+<div align="left" style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
