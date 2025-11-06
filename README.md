@@ -45,8 +45,7 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
 <img src="https://streak-stats.vercel.app?user=AlexsandroSilva68&theme=dark" alt="GitHub Streak"/>
 
 <!-- Visualizações -->
-<br>
-![Profile Views](https://komarev.com/ghpvc/?username=AlexsandroSilva68&label=Visualizações+do+perfil&color=00ff88&style=flat)
+
 
 
 
