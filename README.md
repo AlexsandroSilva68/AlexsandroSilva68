@@ -44,7 +44,6 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
   <br>
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img height="150em" src="https://streak-stats.vercel.app?user=AlexsandroSilva68&theme=dark" alt="GitHub Streak" />
-    <img src="https://komarev.com/ghpvc/?username=AlexsandroSilva68&label=Visualizações+do+perfil&color=00ff88&style=flat" alt="Visualizações do perfil" />
   </div>
 
 
