@@ -1,7 +1,10 @@
 ### Olá, eu sou o Alexsandro.  
 
-Seja bem-vindo ao meu perfil no GitHub! Sou um estudante de sistemas de informação e atualmente estou à procura de estágio. Tenho interesse em aplicar meus conhecimentos em projetos reais.
+Seja bem-vindo ao meu perfil no GitHub!  
+Atualmente trabalho na área de **tecnologia**, desenvolvendo habilidades práticas e aprimorando meu raciocínio analítico e técnico.  
+Tenho buscado constantemente aprender e aplicar **ferramentas voltadas para dados**, como **Python, SQL, Power BI e Excel**, com o objetivo de evoluir profissionalmente e construir uma carreira sólida na **área de dados**.  
 
+Sou movido pela curiosidade e pelo desejo de transformar informações em conhecimento útil para apoiar decisões e gerar valor.
 
 ### 🖥️ Hard Skills
 
