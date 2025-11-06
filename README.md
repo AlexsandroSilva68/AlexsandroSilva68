@@ -30,7 +30,7 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
 
 ### 📊 Minhas Estatísticas
 
-<div align="center">
+<div align="left">
 
 [![Alexsandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexsandroSilva68&show_icons=true&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&bg_color=0d1117&border_color=00ff88&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
