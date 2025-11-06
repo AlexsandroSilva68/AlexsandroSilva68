@@ -6,7 +6,7 @@ Paralelamente, estou **me especializando na área de dados**, estudando ferramen
 
 Sou movido pela curiosidade e pelo desejo de transformar informações em conhecimento útil para apoiar decisões e gerar valor.
 
-## 🧠 Foco Atual — Ferramentas para a Área de Dados
+### 🎯 Foco atual — Ferramentas que estou estudando
 
 <div align="left" style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -15,15 +15,15 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
   <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </div><br>
 
-### 🖥️ Hard Skills
+### 🖥️ Outras Hard Skills
 
-<div style="display: inline_block"><br/>
-  <img alin="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alin="center" alt="HTML5" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white />
-  <img alin="center" alt="HTML5" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black /><br>
-  <img alin="center" alt="HTML5" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white />
-  <img alin="center" alt="HTML5" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white />
-  <img alin="center" alt="HTML5" src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white />
+<div align="left"><br/>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </div><br>
 
 ### 📈 Estatísticas 
