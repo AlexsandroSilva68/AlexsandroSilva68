@@ -8,23 +8,14 @@ Paralelamente, estou **me especializando na área de dados**, estudando ferramen
 
 Sou movido pela curiosidade e pelo desejo de transformar informações em conhecimento útil para apoiar decisões e gerar valor.
 
-### 📊 Minhas Estatísticas
+### 🎯 Foco atual — Ferramentas que estou estudando
 
-<div align="left">
-
-<!-- Estatísticas principais -->
-[![Alexsandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexsandroSilva68&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Linguagens mais usadas -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroSilva68&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Streak corrigido -->
-[![GitHub Streak](https://streak-stats.vercel.app?user=AlexsandroSilva68&theme=dark)](https://git.io/streak-stats)
-
-<!-- Visualizações -->
-![Profile Views](https://komarev.com/ghpvc/?username=AlexsandroSilva68&label=Visualizações+do+perfil&color=blue&style=flat)
-
-</div>
+<div align="left" style="display: inline_block"><br/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+   <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+  <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</div><br>
 
 
 
