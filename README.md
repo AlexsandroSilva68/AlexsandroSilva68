@@ -28,10 +28,12 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
 
 ### 📈 Estatísticas  
 
-<div align="center">
+<div align="left">
 
-![Alexsandro GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexsandroSilva68&show_icons=true&theme=dark)
+![Alexsandro GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexsandroSilva68&show_icons=true&theme=dark) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroSilva68&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlexsandroSilva68&theme=dark)](https://git.io/streak-stats)
 
 </div>
