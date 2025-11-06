@@ -46,7 +46,7 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
 
 <!-- Visualizações -->
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=AlexsandroSilva68&color=blue&style=flat-square&label=Visualizações+do+perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=AlexsandroSilva68&label=Visualizações+do+perfil)
 
 
 </div>
