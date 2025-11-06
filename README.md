@@ -28,18 +28,17 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
   <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </div><br>
 
-### 📈 Estatísticas  
+### 📊 Minhas Estatísticas
 
-<div align="left">
+<div align="center">
 
-![Alexsandro GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexsandroSilva68&show_icons=true&theme=dark) 
+[![Alexsandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexsandroSilva68&show_icons=true&theme=chartreuse-dark&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroSilva68&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroSilva68&layout=compact&theme=chartreuse-dark&title_color=00ff88&text_color=c9d1d9&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.vercel.app?user=AlexsandroSilva68&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlexsandroSilva68&theme=highcontrast&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&background=0d1117)](https://git.io/streak-stats)
 
-
-![Profile views](https://komarev.com/ghpvc/?username=AlexsandroSilva68&color=blue)
+</div>
 
 
 
