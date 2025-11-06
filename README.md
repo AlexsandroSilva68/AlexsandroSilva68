@@ -10,21 +10,24 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
 
 ### 📊 Minhas Estatísticas
 
-<div align="left">
+<div align="center">
 
-<!-- Estatísticas principais -->
-[![Alexsandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexsandroSilva68&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Estatísticas principais e linguagens lado a lado -->
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexsandroSilva68&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroSilva68&layout=compact&theme=dark"/>
+</div>
 
-<!-- Linguagens mais usadas -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroSilva68&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Streak corrigido -->
-[![GitHub Streak](https://streak-stats.vercel.app?user=AlexsandroSilva68&theme=dark)](https://git.io/streak-stats)
+<!-- Streak -->
+<br>
+<img src="https://streak-stats.vercel.app?user=AlexsandroSilva68&theme=dark" alt="GitHub Streak"/>
 
 <!-- Visualizações -->
+<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=AlexsandroSilva68&label=Visualizações+do+perfil&color=blue&style=flat)
 
 </div>
+
 
 
 
