@@ -18,13 +18,14 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
 <!-- Linguagens mais usadas -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroSilva68&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlexsandroSilva68&theme=dark)](https://git.io/streak-stats)
+<!-- Streak corrigido -->
+[![GitHub Streak](https://streak-stats.vercel.app?user=AlexsandroSilva68&theme=dark)](https://git.io/streak-stats)
 
 <!-- Visualizações -->
 ![Profile Views](https://komarev.com/ghpvc/?username=AlexsandroSilva68&label=Visualizações+do+perfil&color=blue&style=flat)
 
 </div>
+
 
 
 ### 🖥️ Outras Hard Skills
