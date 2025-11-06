@@ -40,11 +40,12 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroSilva68&layout=compact&theme=dark"/>
 </div>
 
-<!-- Streak -->
-<br>
-<img src="https://streak-stats.vercel.app?user=AlexsandroSilva68&theme=dark" alt="GitHub Streak"/>
-
-<!-- Visualizações -->
+<!-- Streak e Visualizações -->
+  <br>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+    <img height="150em" src="https://streak-stats.vercel.app?user=AlexsandroSilva68&theme=dark" alt="GitHub Streak" />
+    <img height="50em" src="https://komarev.com/ghpvc/?username=AlexsandroSilva68&label=Visualizações+do+perfil&color=2ea043&style=for-the-badge" alt="Visualizações do perfil" />
+  </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AlexsandroSilva68&label=Visualizações+do+perfil&color=00ff88&style=flat)
 
