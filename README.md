@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+o+Alexsandro.&font=Fira+Code&size=28&color=2ea043&center=true&vCenter=true&width=500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+o+Alexsandro.&font=Fira+Code&size=28&color=2ea043&center=false&vCenter=true&width=500)](https://git.io/typing-svg)
+
 
 
 Seja bem-vindo ao meu perfil no GitHub!  
