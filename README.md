@@ -28,6 +28,8 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
   <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </div><br>
 
+### 📊 Minhas Estatísticas
+
 <div align="center">
 
 [![Alexsandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexsandroSilva68&show_icons=true&theme=chartreuse-dark&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
@@ -37,6 +39,7 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlexsandroSilva68&theme=highcontrast&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&background=0d1117)](https://git.io/streak-stats)
 
 </div>
+
 
 
 ### 📫 Contato
