@@ -30,27 +30,19 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
 
 ### 📊 Minhas Estatísticas
 
+### 📊 Minhas Estatísticas
+
 <div align="center">
 
-<!-- Estatísticas principais -->
-[![Alexsandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexsandroSilva68&show_icons=true&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&bg_color=0d1117&border_color=00ff88)](https://github.com/anuraghazra/github-readme-stats)
+[![Alexsandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexsandroSilva68&show_icons=true&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&bg_color=0d1117&border_color=00ff88&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Linguagens mais usadas -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroSilva68&layout=compact&title_color=00ff88&text_color=c9d1d9&bg_color=0d1117&border_color=00ff88&icon_color=00ff88)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroSilva68&layout=compact&theme=chartreuse-dark&prog_bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&bg_color=0d1117&border_color=00ff88&icon_color=00ff88)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Streak (sequência de commits) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlexsandroSilva68&theme=dark&background=0d1117&border=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=00ff88)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app?user=AlexsandroSilva68&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=00ff88&background=0d1117)](https://git.io/streak-stats)
 
-<!-- Visitantes -->
 ![Profile Views](https://komarev.com/ghpvc/?username=AlexsandroSilva68&label=Visualizações+do+perfil&color=00ff88&style=flat)
 
 </div>
-
-
-
-
-</div>
-
 
 
 ### 📫 Contato
