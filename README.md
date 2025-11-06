@@ -34,9 +34,11 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroSilva68&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlexsandroSilva68&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app?user=AlexsandroSilva68&theme=dark)](https://git.io/streak-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AlexsandroSilva68)
+
+![Profile views](https://komarev.com/ghpvc/?username=AlexsandroSilva68&color=blue)
+
 
 
 </div>
