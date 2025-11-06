@@ -32,7 +32,7 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
 
 ### 📊 Minhas Estatísticas
 
-<div align="center">
+<div align="left">
 
 <!-- Estatísticas principais e linguagens lado a lado -->
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
