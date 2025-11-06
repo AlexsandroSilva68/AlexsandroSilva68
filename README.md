@@ -1,8 +1,8 @@
 ### Olá, eu sou o Alexsandro.  
 
 Seja bem-vindo ao meu perfil no GitHub!  
-Atualmente trabalho na área de **tecnologia**, desenvolvendo habilidades práticas e aprimorando meu raciocínio analítico e técnico.  
-Tenho buscado constantemente aprender e aplicar **ferramentas voltadas para dados**, como **Python, SQL, Power BI e Excel**, com o objetivo de evoluir profissionalmente e construir uma carreira sólida na **área de dados**.  
+Atualmente sou **estagiário de TI**, onde tenho desenvolvido habilidades técnicas, de resolução de problemas e suporte a sistemas.  
+Paralelamente, estou **me especializando na área de dados**, estudando ferramentas como **Python, SQL, Power BI e Excel**, com o objetivo de futuramente atuar profissionalmente nesse campo.    
 
 Sou movido pela curiosidade e pelo desejo de transformar informações em conhecimento útil para apoiar decisões e gerar valor.
 
