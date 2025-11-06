@@ -36,6 +36,9 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlexsandroSilva68&theme=dark)](https://git.io/streak-stats)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AlexsandroSilva68)
+
+
 </div>
 
 
