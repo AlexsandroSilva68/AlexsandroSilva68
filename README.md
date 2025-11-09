@@ -37,7 +37,7 @@ Sou movido pela curiosidade e pelo desejo de transformar informações em conhec
 <!-- Estatísticas principais e linguagens lado a lado -->
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexsandroSilva68&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroSilva68&layout=compact&theme=dark"/>
+  
 </div>
 
 <!-- Streak e Visualizações -->
