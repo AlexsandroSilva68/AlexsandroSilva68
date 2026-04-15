@@ -4,7 +4,11 @@
 
 💻 Estagiário de TI | Focado em Dados
 
-Sou movido pela curiosidade e pelo desejo de transformar informações em conhecimento útil para apoiar decisões e gerar valor.
+Atualmente atuo como estagiário de TI, desenvolvendo habilidades técnicas, resolução de problemas e suporte a sistemas.
+
+Paralelamente, estou me especializando em Dados, com foco em Python, SQL, Power BI e Excel.
+
+Tenho interesse em transformar dados em informações úteis para apoiar a tomada de decisões e gerar valor.
 
 ### 🎯 Foco atual — Ferramentas que estou estudando
 
