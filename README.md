@@ -4,7 +4,7 @@
 
 💻 Estagiário de TI | Focado em Dados
 
-Atualmente atuo como estagiário de TI, desenvolvendo habilidades técnicas, resolução de problemas e suporte a sistemas.
+Atualmente atuo como estagiário de TI, desenvolvendo habilidades técnicas, análise de problemas e apoio a sistemas.
 
 Paralelamente, estou me especializando em Dados, com foco em Python, SQL, Power BI e Excel.
 
