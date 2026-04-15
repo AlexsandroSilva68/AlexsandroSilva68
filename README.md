@@ -2,9 +2,7 @@
 
 
 
-Seja bem-vindo ao meu perfil no GitHub!  
-Atualmente sou **estagiário de TI**, onde tenho desenvolvido habilidades técnicas, de resolução de problemas e suporte a sistemas.  
-Paralelamente, estou **me especializando na área de dados**, estudando ferramentas como **Python, SQL, Power BI e Excel**, com o objetivo de futuramente atuar profissionalmente nesse campo.    
+💻 Estagiário de TI | Focado em Dados
 
 Sou movido pela curiosidade e pelo desejo de transformar informações em conhecimento útil para apoiar decisões e gerar valor.
 
