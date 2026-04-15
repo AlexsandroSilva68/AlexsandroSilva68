@@ -10,6 +10,8 @@ Paralelamente, estou me especializando em Dados, com foco em Python, SQL, Power 
 
 Tenho interesse em transformar dados em informações úteis para apoiar a tomada de decisões e gerar valor.
 
+---
+
 ## 🧩 Experiência Prática
 
 • Consultas e manipulação de dados em bancos de dados.
