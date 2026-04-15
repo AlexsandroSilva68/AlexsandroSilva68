@@ -20,6 +20,8 @@ Tenho interesse em transformar dados em informações úteis para apoiar a tomad
 
 • Apoio em testes e implementação de sistemas.
 
+---
+
 ### 🎯 Foco atual — Ferramentas que estou estudando
 
 <div align="left" style="display: inline_block"><br/>
