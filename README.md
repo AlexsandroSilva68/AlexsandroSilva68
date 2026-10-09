@@ -40,4 +40,7 @@ Gosto de colocar a mão na massa: desenvolvendo aplicações, lidando com dados 
 
 **Fundamentos**
 
-Redes, Sistemas Operacionais, Infraestrutura
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redes](https://img.shields.io/badge/Redes-4A90D9?style=flat&logo=cisco&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
