@@ -1,85 +1,43 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+o+Alexsandro.&font=Fira+Code&size=28&color=2ea043&center=false&vCenter=true&width=500)](https://git.io/typing-svg)
 
+**Transformando aprendizado em soluções.**
 
+Sistemas de Informação · Desenvolvimento de Software · Análise de Dados · Inteligência Artificial
 
-💻 Estagiário de TI | Focado em Dados
+## 👋 Sobre mim
 
-Atualmente atuo como estagiário de TI, desenvolvendo habilidades técnicas, análise de problemas e apoio a sistemas.
+Trabalho com **Desenvolvimento de Software e Análise de Dados**, aplicando na prática o que venho estudando — com interesse crescente em Inteligência Artificial.
 
-Paralelamente, estou me especializando em Dados, com foco em Python, SQL, Power BI e Excel.
+Gosto de colocar a mão na massa: desenvolvendo aplicações, lidando com dados ou automatizando tarefas, sempre buscando transformar conhecimento em soluções reais.
 
-Tenho interesse em transformar dados em informações úteis para apoiar a tomada de decisões e gerar valor.
+## 🛠️ Tecnologias
 
----
+**Linguagens**
 
-## 🧩 Experiência Prática
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-• Consultas e manipulação de dados em bancos de dados.
+**Front-end**
 
-• Tratamento e análise de dados em Excel, com geração de relatórios.
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-• Apoio em testes e implementação de sistemas.
+**Frameworks**
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-### 🎯 Foco atual — Ferramentas que estou estudando
+**Análise de Dados**
 
-<div align="left" style="display: inline_block"><br/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-   <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
-  <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</div><br>
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
+**Fundamentos**
 
-
-### 🖥️ Outras Hard Skills
-
-<div align="left"><br/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</div><br>
-
-### 📊 Minhas Estatísticas
-
-<div align="left">
-
-<!-- Estatísticas principais e linguagens lado a lado -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexsandroSilva68&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroSilva68&layout=compact&theme=dark"/>
-</div>
-
-<!-- Streak e Visualizações -->
-  <br>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img height="150em" src="https://streak-stats.vercel.app?user=AlexsandroSilva68&theme=dark" alt="GitHub Streak" />
-  </div>
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-### 📫 Contato
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-silva-228836197/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VUqPduC3)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexsandro68silva@gmail.com)
-
----
-
-Obrigado pela visita! Fique à vontade para explorar meus repositórios e entrar em contato comigo para qualquer colaboração ou oportunidade.
-
+Redes, Sistemas Operacionais, Infraestrutura
