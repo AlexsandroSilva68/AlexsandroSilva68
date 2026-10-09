@@ -47,3 +47,9 @@ Gosto de colocar a mão na massa: desenvolvendo aplicações, lidando com dados 
 ## 🎓 Base em Engenharia de Software
 
 Tenho uma base sólida em **metodologias ágeis, UML, qualidade de software e gestão de projetos**, construída na graduação e aplicada no dia a dia do meu estágio.
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-silva-228836197/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/VUqPduC3)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexsandro68silva@gmail.com)
