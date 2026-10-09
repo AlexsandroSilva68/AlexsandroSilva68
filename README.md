@@ -2,11 +2,11 @@
 
 **Transformando aprendizado em soluções.**
 
-Sistemas de Informação · Desenvolvimento de Software · Análise de Dados · Inteligência Artificial
+Sistemas de Informação · Desenvolvimento de Software · Análise de Dados
 
 ## 👋 Sobre mim
 
-Trabalho com **Desenvolvimento de Software e Análise de Dados**, aplicando na prática o que venho estudando — com interesse crescente em Inteligência Artificial.
+Trabalho com **Desenvolvimento de Software e Análise de Dados**, aplicando na prática o que venho estudando.
 
 Gosto de colocar a mão na massa: desenvolvendo aplicações, lidando com dados ou automatizando tarefas, sempre buscando transformar conhecimento em soluções reais.
 
@@ -42,5 +42,4 @@ Gosto de colocar a mão na massa: desenvolvendo aplicações, lidando com dados 
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Redes](https://img.shields.io/badge/Redes-4A90D9?style=flat&logo=cisco&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
