@@ -6,7 +6,7 @@ Sistemas de Informação · Desenvolvimento de Software · Análise de Dados
 
 ## 👋 Sobre mim
 
-Trabalho com **Desenvolvimento de Software e Análise de Dados**, aplicando na prática o que venho estudando — com uma base em metodologias ágeis e boas práticas de engenharia de software.
+Trabalho com **Desenvolvimento de Software, Análise de Dados e Engenharia de Software**, aplicando na prática o que venho estudando — com base em metodologias ágeis, UML e boas práticas de qualidade.
 
 Gosto de colocar a mão na massa: desenvolvendo aplicações, lidando com dados ou automatizando tarefas, sempre buscando transformar conhecimento em soluções reais.
 
