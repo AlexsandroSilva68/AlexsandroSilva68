@@ -6,7 +6,7 @@ Sistemas de Informação · Desenvolvimento de Software · Análise de Dados
 
 ## 👋 Sobre mim
 
-Trabalho com **Desenvolvimento de Software e Análise de Dados**, aplicando na prática o que venho estudando.
+Trabalho com **Desenvolvimento de Software e Análise de Dados**, aplicando na prática o que venho estudando — com uma base em metodologias ágeis e boas práticas de engenharia de software.
 
 Gosto de colocar a mão na massa: desenvolvendo aplicações, lidando com dados ou automatizando tarefas, sempre buscando transformar conhecimento em soluções reais.
 
@@ -43,3 +43,7 @@ Gosto de colocar a mão na massa: desenvolvendo aplicações, lidando com dados 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+
+## 🎓 Base em Engenharia de Software
+
+Tenho uma base sólida em **metodologias ágeis, UML, qualidade de software e gestão de projetos**, construída na graduação e aplicada no dia a dia do meu estágio.
