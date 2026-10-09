@@ -38,12 +38,6 @@ Gosto de colocar a mão na massa: desenvolvendo aplicações, lidando com dados 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-**Fundamentos**
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
-
 ## 🎓 Base em Engenharia de Software
 
 Tenho uma base sólida em **metodologias ágeis, UML, qualidade de software e gestão de projetos**, construída na graduação e aplicada no dia a dia do meu estágio.
