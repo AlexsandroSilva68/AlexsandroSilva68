@@ -10,6 +10,14 @@ Trabalho com **Desenvolvimento de Software e Análise de Dados**, aplicando na p
 
 Gosto de colocar a mão na massa: desenvolvendo aplicações, lidando com dados ou automatizando tarefas, sempre buscando transformar conhecimento em soluções reais.
 
+## 🎯 Áreas de Interesse
+
+### Engenharia de Software
+Tenho uma base sólida em **metodologias ágeis, UML, qualidade de software e gestão de projetos**, construída na graduação e aplicada no dia a dia do meu estágio.
+
+### Análise de Dados
+No estágio, atuo com **validação e tratamento de dados, consultas e manipulação de bancos de dados, e construção de dashboards**, utilizando principalmente Excel e ferramentas de BI.
+
 ## 🛠️ Tecnologias
 
 **Linguagens**
@@ -37,14 +45,6 @@ Gosto de colocar a mão na massa: desenvolvendo aplicações, lidando com dados 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-## 🎯 Áreas de Interesse
-
-### Engenharia de Software
-Tenho uma base sólida em **metodologias ágeis, UML, qualidade de software e gestão de projetos**, construída na graduação e aplicada no dia a dia do meu estágio.
-
-### Análise de Dados
-No estágio, atuo com **validação e tratamento de dados, consultas e manipulação de bancos de dados, e construção de dashboards**, utilizando principalmente Excel e ferramentas de BI.
 
 ## 📫 Contato
 
